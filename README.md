@@ -1,15 +1,32 @@
-# bankist-site
- Project from The Modern Javascript Bootcamp 2021 by Jonas Schmedtmann <br>
+# Bankist
 
-Welcome to Bankist! Where simplicity meets banking.
+A Minimalistic Banking Web Application
+Exercise from Udemy - The Complete JavaScript Course 2022
+A Project created to learn advanced DOM manipulation techniques 
 
-This simple yet marvelous project, with a personal touch, is the result of a lots of hours, spread out over a couple of days. <br> 
-Modern Javascript taught in a creative way that really helps show some of the many things that can be done within Javascript. <br>
-Putting theory into practice. <br> <br>
+## Live Demo
 
-It's easy watching a hundred hours of lessons, it's something else to actually create something.
+**You Can See The `Bankist` Live On:** [Here]()
 
-A single-page site created with the purpose of training and showing advanced DOM events within vanilla JS. <br>
-Screen transitions, sliders, lazy-loading and some other features can be found in the code/site. 
+## Description
+
+Bankist is a minimal website for a bank. A minimal design with responsiveness and soothing design along with functionality to sign into account for further activities. Simply click on login and user credential provided on screen to use bankist web app. In the future the functionality or create account from website is going to be added.
+
+**Features:**
+
+-  _Smooth scroll_
+-  _Page Navigation_
+-  _Tabbed component
+-  _Menu fade animation_
+-  _Sticky navigation_
+-  _Lazy loading images_
+-  _Slider component_
+-  _Reveal sections_
+
+**Technologies:**
+
+- HTML
+- CSS
+- JavaScript
 
  ![bankist-preview](https://user-images.githubusercontent.com/73433189/111028014-b7d9f580-83eb-11eb-80d5-9cba92b20f75.gif)
