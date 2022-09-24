@@ -1,8 +1,8 @@
 # Bankist
 
-A Minimalistic Banking Web Application
-Exercise from Udemy - The Complete JavaScript Course 2022
-A Project created to learn advanced DOM manipulation techniques 
+A Minimalistic Banking Web Application.
+Exercise from Udemy - The Complete JavaScript Course 2022.
+A Project created to learn advanced DOM manipulation techniques .
 
 ## Live Demo
 
