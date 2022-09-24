@@ -6,7 +6,7 @@ A Project created to learn advanced DOM manipulation techniques .
 
 ## Live Demo
 
-**You Can See The `Bankist` Live On:** [Here](https://dimitarmitev92.github.io/Bankist-site/)
+**You Can See The `Bankist - site` Live On:** [Here](https://dimitarmitev92.github.io/Bankist-site/)
 
 ## Description
 
