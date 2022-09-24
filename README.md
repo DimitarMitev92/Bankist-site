@@ -16,7 +16,7 @@ Bankist is a minimal website for a bank. A minimal design with responsiveness an
 
 -  _Smooth scroll_
 -  _Page Navigation_
--  _Tabbed component
+-  _Tabbed component_
 -  _Menu fade animation_
 -  _Sticky navigation_
 -  _Lazy loading images_
@@ -25,8 +25,8 @@ Bankist is a minimal website for a bank. A minimal design with responsiveness an
 
 **Technologies:**
 
-- HTML
-- CSS
-- JavaScript
+- _HTML_
+- _CSS_
+- _JavaScript_
 
  ![bankist-preview](https://user-images.githubusercontent.com/73433189/111028014-b7d9f580-83eb-11eb-80d5-9cba92b20f75.gif)
